@@ -1,4 +1,4 @@
-const { ReportGenerator } = require('../src/ReportGenerator.js');
+const { ReportGenerator } = require('../src/ReportGenerator.refactored.js');
 
 // --- Dados de Teste ---
 const adminUser = { name: 'Admin', role: 'ADMIN' };

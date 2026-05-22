@@ -17,11 +17,15 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.23.2",
-    "eslint": "^8.51.0",
+    "eslint": "^8.57.1",
     "eslint-plugin-sonarjs": "^0.21.0",
     "jest": "^29.7.0"
   },
   "jest": {
     "transform": {}
+  },
+  "dependencies": {
+    "npm": "^11.15.0",
+    "test": "^3.3.0"
   }
 }
